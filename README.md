@@ -1,6 +1,6 @@
-Hey, I'm Giovan 👋
+Hello! I’m Giovan (pronounced “joe-von”)👋
 
-I'm a 3rd year student pursuing a BAS in Software Development. Currently my strenghts inlcude front and back-end web development utilizing HTML, CSS, JavaScript, PHP, SQL and Bootstrap, as well as creating Java programs.
+https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white
 
 <!---
 Gecervantes01/Gecervantes01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
