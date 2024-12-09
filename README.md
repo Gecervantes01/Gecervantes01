@@ -42,7 +42,7 @@ I'm a senior in college looking to transition from student to full stack develop
       <a href="https://github.com/badges/shields">Badges</a>
     </li>
     <li>
-      <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile-Dynamic?tab=readme-ov-file#-most-used-language-">Dynamic Stats</a>
+      <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile">Dynamic Stats</a>
     </li>
   </ul>
 </section>
