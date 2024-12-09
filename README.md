@@ -35,6 +35,18 @@ I'm a senior in college looking to transition from student to full stack develop
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gecervantes01&theme=onedark">
 </section>
 
+<section>
+  <h6>Tools used to style README</h6>
+  <ul>
+    <li>
+      <a href="https://github.com/badges/shields">Badges</a>
+    </li>
+    <li>
+      <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile-Dynamic?tab=readme-ov-file#-most-used-language-">Dynamic Stats</a>
+    </li>
+  </ul>
+</section>
+
 
 
 
