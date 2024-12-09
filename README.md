@@ -2,7 +2,7 @@
 I'm a senior in college looking to transition from student to full stack developer!
 <br><br>
 <section>
-  <h5>Languages I use...</h5>
+  <h4>Languages I use...</h4>
   <div>
     <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white">
@@ -12,7 +12,7 @@ I'm a senior in college looking to transition from student to full stack develop
     <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white">
     <img src="https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white">
   </div>
-  <h5>Tools I use...</h5>
+  <h4>Tools I use...</h4>
   <div>
     <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white">
     <img src="https://img.shields.io/badge/-Node.js-5FA04E?logo=node.js&logoColor=white">
@@ -24,7 +24,7 @@ I'm a senior in college looking to transition from student to full stack develop
   </div>
 </section>
 <section>
-  <h5>Connect with me!</h5>
+  <h4>Connect with me!</h4>
   <a href="https://www.linkedin.com/in/gecervantes/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white">
   </a>
