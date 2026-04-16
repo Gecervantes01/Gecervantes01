@@ -1,5 +1,5 @@
 <h2>Hello! I’m Giovan👋</h2>
-I'm a senior in college looking to transition from student to full stack developer!
+I like to create fun and usefull things!
 <br><br>
 <section>
   <h4>Languages I use...</h4>
